@@ -1,0 +1,105 @@
+
+nav{
+     /* border: 2px solid black; */
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size: 15px;
+     padding: 3px 3px;
+     background-color: rgb(37, 2, 70);
+    margin: auto;
+
+}
+h1{
+    /* border: 2px solid blue; */
+    position: absolute;
+    top: 50px;
+    width: 100%;
+    background-color: #00BCD4;
+    text-align: center;
+}
+
+div.logo{
+    position: absolute;
+    top: 5px;
+    width: 60px;
+    box-sizing: border-box;
+    /* border: 2px solid rgb(236, 12, 49); */
+    margin: 2px 3px; 
+}
+#sidemenu{
+    /* border: 2px solid rgb(25, 166, 231); */
+    margin: 11px 3px;
+    padding: 5px 11px;
+    position: absolute;
+    right: 4px;
+    top: 3px;
+}
+
+    /* border: 2px solid rgb(14, 236, 51); */
+    /* margin: 2px 3px; */
+    /* padding: 2px 3px;  */
+    /* position: absolute;  */
+    /* top: 150px; */
+    form{
+        border: 2px solid black;
+        box-sizing: border-box;
+        display: block;
+        width: 400px;
+        margin-left: 311px;
+        margin: 1px 270px;
+        padding: 13px 87px;
+        position: absolute;
+        top: 150px;
+    }
+
+
+input{
+    margin: 2px;
+    padding: 3px;
+
+}
+a{
+    text-decoration: none;
+padding: 4px;
+margin: 4px;
+background-color:rgb(218, 218, 183);
+border-radius: 5px;
+
+
+}
+a:hover{
+    background-color: aqua;
+}
+li{
+    list-style: none;
+ display: inline;
+ padding: 12px;
+    width: 12px;
+}
+#navbar{
+    position: sticky;
+    top: 3px;
+    left: 141px;
+    width: 102%;
+}
+
+
+  img{
+    padding-left: 4px;
+  }  
+  #logo{
+    font-size:16px;
+    text-align: center;
+  }
+  .button{
+    border-radius: 4px;
+  }
+  span{
+    color: yellow;
+  }
+  div{
+    font-size: medium;
+    font-style: normal;
+    font-family: cursive;
+  }
+
+
